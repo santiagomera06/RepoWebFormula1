@@ -1,0 +1,10 @@
+img{
+    width: 300px;
+    height: 200px;
+}
+
+body{
+    background-image: url(images1/OIP.jpg);
+    background-repeat:  no-repeat;
+    background-size: cover;
+}
